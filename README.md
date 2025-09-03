@@ -1,10 +1,6 @@
 # Java Web MVC Study – JSP/Servlet & MVC 패턴
 
 
-> **JSP/Servlet 기초부터 MVC1·MVC2 패턴까지**를 단계적으로 정리한 레포지토리입니다.
-> JSP 기본 문법, JSTL/EL, 서블릿 동작 원리, MVC 아키텍처 전환, 계층형 설계까지 **웹 기초 역량을 체계화**하는 것을 목표로 했습니다.
-
-
 ## 학습 목표
 
 * JSP/Servlet 기반 **요청–응답 흐름** 이해 (Forward/Redirect, Param/Encoding, Session/Cookie 등)
@@ -28,7 +24,7 @@
 
 
 
-## ✨ 주요 학습 내용 
+## 주요 학습 내용 
 
 ### `Jsp/`
 
